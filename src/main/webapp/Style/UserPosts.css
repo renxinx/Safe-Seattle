@@ -1,0 +1,130 @@
+@charset "UTF-8";
+
+body{
+  font-family: "karla", sans-serif;
+  background-color: #d0d0ce;
+  min-height: 100vh;
+}
+
+.matchingoffenses{
+	padding-left: 250px;
+	
+	
+}
+
+.table{
+
+	width: 500px;
+	font-size: 14px;
+}
+.input-box{
+	font-size: 14px;
+  color: #000;
+  font-weight: normal;
+  margin-bottom: 23px;
+  width: 200px;
+  height: 25px;
+  padding: 20px 10px;
+   line-height: 28px;
+   border: rounded;
+   border-radius: 12px;
+	
+	
+}
+
+.successmessage {
+	padding-left: 473px;
+	font-size: 14px;
+	padding-bottom: 10px;
+	
+}
+
+.brand-wrapper{
+  margin-bottom: 19px;
+}
+.brand-wrapper .logo{
+  height: 37px;
+}
+.login-card{
+  border: 0;
+  border-radius: 27.5px;
+  box-shadow: 0 10px 30px 0 rgba(172, 168, 168, 0.43);
+  overflow: hidden;
+  padding:50px;
+}
+
+.login-card .card-body{
+	padding-left: 250px;
+	padding-right: 200px;
+	padding-top: 30px;
+}
+
+.form-group{
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.report-id {
+	padding-left: 80px;
+	
+	
+}
+
+
+.login-card-description{
+  font-size: 24px;
+  color: #000;
+  font-weight: normal;
+  margin-bottom: 23px;
+}
+.login-card form{
+  max-width: 0px;
+}
+
+.login-card .form-control{
+  border: 1px solid #d5dae2;
+  margin-bottom: 20px;
+  min-height: 45px;
+  font-size: 13px;
+  line-height: 15;
+  font-weight: normal;
+}
+.login-card .form-control::-webkit-input-placeholder{
+  color: #919aa3;
+}
+.login-card .form-control::-moz-input-placeholder{
+  color: #919aa3;
+}
+.login-card .form-control::-ms-input-placeholder{
+  color: #919aa3;
+}
+.login-card .form-control::-o-input-placeholder{
+  color: #919aa3;
+}
+.login-card .form-control::placeholder{
+  color: #919aa3;
+}
+.login-card .login-btn{
+  padding: 13px 20px 12px;
+  background-color: #000;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 20px;
+  color: #fff;
+  margin-bottom: 24px;
+
+}
+.login-card .login-btn:hover{
+  border: 1px solid #000;
+  background-color: transparent;
+  color: #000;
+}
+
+.button {
+	padding-top: 25px;
+	display: flex;
+ 	padding-left: 460px;
+ 	font-size: 12px;
+}
+

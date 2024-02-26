@@ -1,0 +1,114 @@
+@charset "UTF-8";
+
+body{
+  font-family: "karla", sans-serif;
+  background-color: #d0d0ce;
+  min-height: 100vh;
+}
+
+
+
+
+h3{
+	padding-left:250px;
+	padding-bottom: 15px;
+	
+}
+
+.container{
+	width: 1000px;
+	
+}
+td{
+	text-align: center;
+	font-size:16px;
+	padding: 10px;
+	width:20px;
+	
+    white-space: nowrap;
+}
+
+th{
+	text-align: center;
+	padding: 5px;
+	width:20px;
+	
+	font-size:14px;
+	 white-space: nowrap;
+	
+}
+
+table{
+	width: 70%;
+	border-collapse:separate;
+   
+    border-radius:6px;
+    
+	
+}
+.brand-wrapper{
+  margin-bottom: 19px;
+}
+
+.brand-wrapper .logo{
+  height: 37px;
+}
+.login-card{
+  border: 0;
+  border-radius: 27.5px;
+  box-shadow: 0 10px 30px 0 rgba(172, 168, 168, 0.43);
+  overflow: hidden;
+}
+
+.login-card .card-body{
+	padding-left: 75px;
+	padding-bottom: 40px;
+	
+	
+	
+}
+
+
+
+
+
+.login-card-description{
+  font-size: 18px;
+  color: #000;
+  font-weight: normal;
+  margin-bottom: 23px;
+  padding-left: 80px;
+ 
+}
+.login-card form{
+  max-width: 0px;
+}
+
+.login-card .form-control{
+  border: 1px solid #d5dae2;
+  margin-bottom: 20px;
+  min-height: 45px;
+  font-size: 13px;
+  line-height: 15;
+  font-weight: normal;
+}
+
+.login-card .login-btn{
+  padding: 13px 20px 12px;
+  background-color: #000;
+  border-radius: 4px;
+  font-size: 17px;
+  font-weight: bold;
+  line-height: 20px;
+  color: #fff;
+  margin-bottom: 24px;
+
+}
+.login-card .login-btn:hover{
+  border: 1px solid #000;
+  background-color: transparent;
+  color: #000;
+}
+
+
+
